@@ -99,5 +99,5 @@ I am currently pursuing AI Engineering, AI R&D, and software engineering opportu
 ## Contact
 
 * GitHub: [github.com/mdlewis365](https://github.com/mdlewis365)
-* LinkedIn: [linkedin.com/in/mdlewis365](www.linkedin.com/in/mdlewis365)
+* LinkedIn: [linkedin.com/in/mdlewis365](https://www.linkedin.com/in/mdlewis365)
 * Portfolio / Project Site: [carter.syntheticoslabs.com](https://carter.syntheticoslabs.com)
