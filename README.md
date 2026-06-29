@@ -1,4 +1,4 @@
-# Michael Lewis
+# Michael D. Lewis
 
 **AI Systems Engineer | Synthetic OS Labs | Governed AI Systems**
 
