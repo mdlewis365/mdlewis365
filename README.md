@@ -1,6 +1,6 @@
 # Michael Lewis
 
-**AI R&D Engineer | Synthetic OS Labs | Governed AI Systems**
+**AI Systems Engineer | Synthetic OS Labs | Governed AI Systems**
 
 I build and document governed AI systems that combine large language model reasoning, deterministic validation, memory, retrieval, structured workflows, and human-review boundaries.
 
